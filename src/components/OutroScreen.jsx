@@ -30,7 +30,7 @@ export default function OutroScreen() {
                     className="text-2xl md:text-3xl text-foreground text-center text-balance leading-normal drop-shadow-[0_0_8px_rgba(155,77,255,0.35)]"
                 >
                     This was meant for you pakhii💖
-                            "Yours Fahim"
+                            Yours Fahim
                 </motion.p>
 
             </motion.div>
